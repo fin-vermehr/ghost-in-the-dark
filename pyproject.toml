@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "prank_machine"
 version = "0.1.0"
 authors = [
-    { name = "Your Name" }
+    { name = "fin-vermehr" }
 ]
 description = "A prank device that plays sounds in the dark"
 requires-python = ">=3.11"
