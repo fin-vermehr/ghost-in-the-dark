@@ -1,4 +1,4 @@
-# Sound Prank Machine
+# Ghost in the Dark
 
 A fun project that plays random sounds in dark environments using a Raspberry Pi Zero 2 W. The device detects ambient light levels and plays random audio clips when it's dark, stopping when lights are turned on.
 
