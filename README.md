@@ -4,12 +4,16 @@ A fun project that plays random sounds in dark environments using a Raspberry Pi
 
 ## Hardware Requirements
 
+<img width="655" alt="Screenshot 2025-01-12 at 10 52 37 PM" src="https://github.com/user-attachments/assets/8cbf1ed7-9f7b-4b4c-843d-08e8fed7685c" />
+
 ### Core Electronics
 - Raspberry Pi Zero 2 W (main computer)
 - GL5516 Photoresistor/LDR (light detection)
 - PAM8403 amplifier module (audio amplification)
 - 4Ω 3W mini speakers
 - 10kΩ resistor
+
+  
 
 ### Power & Storage
 - Anker PowerCore 10000 battery pack
