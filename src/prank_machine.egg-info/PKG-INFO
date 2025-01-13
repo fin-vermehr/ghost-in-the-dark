@@ -1,0 +1,8 @@
+Metadata-Version: 2.2
+Name: prank_machine
+Version: 0.1.0
+Summary: A prank device that plays sounds in the dark
+Author: Your Name
+Requires-Python: >=3.11
+Requires-Dist: pytest
+Requires-Dist: pygame
